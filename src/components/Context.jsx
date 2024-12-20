@@ -1,5 +1,5 @@
 import { createContext, useState } from "react";
-import run from "./gemini";
+import run from "./Gemini";
 
 export const Context = createContext();
 
